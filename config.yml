@@ -61,7 +61,7 @@ params:
       enable: true
       qr: https://storage.guangzhengli.com/images/weixin_sponsors.jpeg
   comments:
-     giscus:
+    giscus:
       enable: true
       repo: woshidashuaibi-lsj/lusuijie.github.io
       repo_id: R_kgDOLUkL3w

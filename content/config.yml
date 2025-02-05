@@ -28,7 +28,7 @@ params:
     showMetaTags: true
   darkModeTheme: data-dark-mode
   comments:
-   giscus:
+    giscus:
       enable: true
       repo: woshidashuaibi-lsj/lusuijie.github.io
       repo_id: R_kgDOLUkL3w
