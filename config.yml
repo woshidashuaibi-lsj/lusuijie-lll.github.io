@@ -69,7 +69,7 @@ params:
       category_id: DIC_kwDOLUkL384CdVmA
       mapping: pathname
       position: top
-      lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
+      lang: en
     utteranc:
       enable: false
       repo: guangzhengli/blog-comments

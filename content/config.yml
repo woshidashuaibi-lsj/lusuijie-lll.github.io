@@ -27,6 +27,7 @@ params:
     enableMultiLang: true
     showMetaTags: true
   darkModeTheme: data-dark-mode
+  comments:
    giscus:
       enable: true
       repo: woshidashuaibi-lsj/lusuijie.github.io
