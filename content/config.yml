@@ -27,13 +27,12 @@ params:
     enableMultiLang: true
     showMetaTags: true
   darkModeTheme: data-dark-mode
-  comments:
-    giscus:
+   giscus:
       enable: true
-      repo: guangzhengli/hugo-ladder-exampleSite
-      repo_id: R_kgDOHyVOjg
+      repo: woshidashuaibi-lsj/lusuijie.github.io
+      repo_id: R_kgDOLUkL3w
       category: Announcements
-      category_id: DIC_kwDOHyVOjs4CQsH7
+      category_id: DIC_kwDOLUkL384CdVmA
       mapping: pathname
       position: top
       lang: en # pick a language from https://github.com/giscus/giscus/tree/main/locales
