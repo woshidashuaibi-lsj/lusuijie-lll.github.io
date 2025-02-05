@@ -1,6 +1,6 @@
 ---
 title: Rich Content
-date: 2022-07-18 20:29:08
+date: 2022-07-18
 tags: ["Hugo", "Ladder", "shortcode"]
 featured: false
 ---

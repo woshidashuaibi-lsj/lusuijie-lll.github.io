@@ -7,7 +7,8 @@ description: 'A fast, clean Hugo theme'
 homepage: 'https://hugo-ladder.pages.dev'
 defaultContentLanguage: 'en'
 googleAnalytics: G-4WXJ5TEK2S
-paginate: 10
+pagination:
+  pagerSize: 10
 hasCJKLanguage: true
 copyright: "2023 GuangzhengLi All rights reserved"
 Author:
@@ -81,9 +82,6 @@ params:
       enable: true
       website_id: 2320eaa6-a90b-471c-b6ca-e79dadde8c4c
       url: https://analytics.guangzhengli.com/hugo-ladder
-  guestbook:
-    title: Guestbook
-    description: Leave a comment below. It could be anything –- question, appreciation, information, or even humor.
   social:
     - name: GitHub
       pre: >-
